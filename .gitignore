@@ -1,0 +1,5 @@
+apollo
+main.py
+geckodriver.log
+.env
+shopify_urls.csv
